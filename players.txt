@@ -1,0 +1,4 @@
+Alice 1200
+Bob 800
+Charlie 1500
+David 950
